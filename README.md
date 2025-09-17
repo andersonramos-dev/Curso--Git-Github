@@ -1,2 +1,2 @@
-# Ola-mundo
-curso git e github
+# Curso Git e Github
+Repositório do curso
